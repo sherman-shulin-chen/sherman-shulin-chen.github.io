@@ -13,10 +13,6 @@ permalink: "/french/"
 ### [Phonetics Course](/french/phonetics/)
 Learn French pronunciation basics
 
-- [Lesson 1 - Basic Vowels](/french/phonetics/lesson-01/)
-- [Lesson 2 - Consonants](/french/phonetics/lesson-02/)
-- More lessons coming...
-
 ---
 
 ## 🎯 Learning Goals

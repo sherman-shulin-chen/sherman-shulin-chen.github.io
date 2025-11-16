@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Lesson 01"
+title: "Lesson 1"
 subheadline: "French Phonetics Course"
-teaser: "Audio exercises for Lesson 01"
+teaser: "Audio exercises for Lesson 1"
+header:
+   image_fullwidth: "01_header_smiling.jpg"
 permalink: "/french/phonetics/lesson-01/"
 ---
 
-## 📚 Lesson 01
+## 📚 Lesson 1
 
 ### 🎧 lecon01_p08_cours
 <audio controls style="width: 100%; margin-bottom: 20px;">
@@ -59,3 +61,4 @@ permalink: "/french/phonetics/lesson-01/"
 
 ### Navigation
 - [← Back to Phonetics Course](/french/phonetics/)
+- [→ Next: Lesson 2](/french/phonetics/lesson-02/)
