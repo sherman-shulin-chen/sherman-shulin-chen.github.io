@@ -11,7 +11,7 @@ permalink: "/french/phonetics/lesson-55/"
 ## 📚 Lesson 55
 
 ### 🎧 lecon55_p120_cours
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p120_cours.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -19,7 +19,7 @@ permalink: "/french/phonetics/lesson-55/"
 ---
 
 ### 🎧 lecon55_p120_ex1
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p120_ex1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -27,7 +27,7 @@ permalink: "/french/phonetics/lesson-55/"
 ---
 
 ### 🎧 lecon55_p121_ex3
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p121_ex3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -35,7 +35,7 @@ permalink: "/french/phonetics/lesson-55/"
 ---
 
 ### 🎧 lecon55_p121_ex4
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p121_ex4.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -43,7 +43,7 @@ permalink: "/french/phonetics/lesson-55/"
 ---
 
 ### 🎧 lecon55_p121_ex5
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p121_ex5.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -51,7 +51,7 @@ permalink: "/french/phonetics/lesson-55/"
 ---
 
 ### 🎧 lecon55_p121_ex_avous
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_55/lecon55_p121_ex_avous.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>

@@ -10,7 +10,7 @@ permalink: "/french/phonetics/"
 
 ## 📖 Course Textbook
 
-<a href="/assets/pdfs/Phonetique_progressive.pdf" target="_blank">📥 View Textbook (PDF)</a> - Progressive French Phonetics
+<a href="/assets/pdfs/Phonetique_progressive.pdf" target="_blank" class="button radius">📥 View Textbook (PDF)</a>
 
 ---
 

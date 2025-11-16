@@ -11,7 +11,7 @@ permalink: "/french/phonetics/lesson-09/"
 ## 📚 Lesson 9
 
 ### 🎧 lecon09_p24_cours
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p24_cours.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -19,7 +19,7 @@ permalink: "/french/phonetics/lesson-09/"
 ---
 
 ### 🎧 lecon09_p24_ex1
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p24_ex1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -27,7 +27,7 @@ permalink: "/french/phonetics/lesson-09/"
 ---
 
 ### 🎧 lecon09_p25_ex3
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p25_ex3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -35,7 +35,7 @@ permalink: "/french/phonetics/lesson-09/"
 ---
 
 ### 🎧 lecon09_p25_ex4
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p25_ex4.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -43,7 +43,7 @@ permalink: "/french/phonetics/lesson-09/"
 ---
 
 ### 🎧 lecon09_p25_ex_avous
-<audio controls style="width: 100%; margin-bottom: 20px;">
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p25_ex_avous.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
