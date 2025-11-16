@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-17/"
 
 ## 📚 Lesson 17
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_17/lesson17_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon17_p40_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_17/lecon17_p40_cours.mp3" type="audio/mpeg">

@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-23/"
 
 ## 📚 Lesson 23
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_23/lesson23_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon23_p54_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_23/lecon23_p54_cours.mp3" type="audio/mpeg">

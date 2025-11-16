@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-54/"
 
 ## 📚 Lesson 54
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_54/lesson54_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon54_p118_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_54/lecon54_p118_cours.mp3" type="audio/mpeg">

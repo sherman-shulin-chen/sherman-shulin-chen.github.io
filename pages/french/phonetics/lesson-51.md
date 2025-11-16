@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-51/"
 
 ## 📚 Lesson 51
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_51/lesson51_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon51_p112_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_51/lecon51_p112_cours.mp3" type="audio/mpeg">

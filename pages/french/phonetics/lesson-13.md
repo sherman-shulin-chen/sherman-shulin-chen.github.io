@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-13/"
 
 ## 📚 Lesson 13
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_13/lesson13_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon13_p32_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_13/lecon13_p32_cours.mp3" type="audio/mpeg">

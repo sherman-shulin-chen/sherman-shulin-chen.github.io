@@ -10,6 +10,16 @@ permalink: "/french/phonetics/lesson-09/"
 
 ## 📚 Lesson 9
 
+### 🎧 Complete Lesson (All Audio Combined)
+<audio controls loop style="width: 100%; margin-bottom: 20px;">
+  <source src="/assets/audios/French_Phonetics/lesson_09/lesson09_complete.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+## Individual Audio Files
+
 ### 🎧 lecon09_p24_cours
 <audio controls loop style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_09/lecon09_p24_cours.mp3" type="audio/mpeg">
