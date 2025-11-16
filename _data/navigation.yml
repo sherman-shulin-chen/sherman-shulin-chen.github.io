@@ -73,3 +73,12 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+- title: French
+  url: "/french/"
+  side: left
+  dropdown:
+  - title: "Phonetics"
+    url: "/french/phonetics/"
+  - title: "Lesson 1"
+    url: "/french/phonetics/lesson-01/"
