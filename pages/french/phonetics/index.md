@@ -8,6 +8,12 @@ header:
 permalink: "/french/phonetics/"
 ---
 
+## 📖 Course Textbook
+
+<a href="/assets/pdfs/Phonetique_progressive.pdf" target="_blank">📥 View Textbook (PDF)</a> - Progressive French Phonetics
+
+---
+
 ## 📖 Course List
 
 ### [Lesson 1](/french/phonetics/lesson-01/)
