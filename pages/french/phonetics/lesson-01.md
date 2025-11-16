@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Lesson 01 - Basic Vowels"
+title: "Lesson 01"
 subheadline: "French Phonetics Course"
-teaser: "Learn basic French vowel sounds"
+teaser: "Audio exercises for Lesson 01"
 permalink: "/french/phonetics/lesson-01/"
 ---
 
-## 📚 Lesson 01 - Basic Vowels
+## 📚 Lesson 01
 
-### 🎧 Course Audio (Cours)
+### 🎧 lecon01_p08_cours
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p08_cours.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -16,7 +16,7 @@ permalink: "/french/phonetics/lesson-01/"
 
 ---
 
-### ✍️ Exercise 1 (Exercice 1)
+### 🎧 lecon01_p08_ex1
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p08_ex1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -24,7 +24,7 @@ permalink: "/french/phonetics/lesson-01/"
 
 ---
 
-### ✍️ Exercise 3 (Exercice 3)
+### 🎧 lecon01_p09_ex3
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p09_ex3.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -32,7 +32,7 @@ permalink: "/french/phonetics/lesson-01/"
 
 ---
 
-### ✍️ Exercise 4 (Exercice 4)
+### 🎧 lecon01_p09_ex4
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p09_ex4.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -40,7 +40,7 @@ permalink: "/french/phonetics/lesson-01/"
 
 ---
 
-### ✍️ Exercise 5 (Exercice 5)
+### 🎧 lecon01_p09_ex5
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p09_ex5.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -48,7 +48,7 @@ permalink: "/french/phonetics/lesson-01/"
 
 ---
 
-### 🗣️ Your Turn! (À vous!)
+### 🎧 lecon01_p09_ex_avous
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/assets/audios/French_Phonetics/lesson_01/lecon01_p09_ex_avous.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -59,4 +59,3 @@ permalink: "/french/phonetics/lesson-01/"
 
 ### Navigation
 - [← Back to Phonetics Course](/french/phonetics/)
-- [→ Next: Lesson 02](/french/phonetics/lesson-02/)
