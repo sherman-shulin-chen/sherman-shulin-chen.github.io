@@ -80,3 +80,7 @@
   dropdown:
   - title: "Phonetics"
     url: "/french/phonetics/"
+  - title: "Communicative Activities"
+    url: "/french/communicative-activities/"
+  - title: "Poems & Songs"
+    url: "/french/poems-songs/"
